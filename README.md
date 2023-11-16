@@ -1,5 +1,5 @@
 ### Java Programming: Build a Recommendation System<br>
-Duke University
+Duke University - Coursera
 
 <p>
 <img src="https://img.shields.io/badge/STATUS-COMPLETED-green"/>
