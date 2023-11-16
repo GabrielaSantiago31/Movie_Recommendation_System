@@ -36,7 +36,7 @@ Once you complete this step, you could request ratings of movies from those you 
   
 ###  :octocat: Técnicas e Tecnologias Utilizadas
 ---
-- Java 1.8
+- Java 8
 - MS Excel
 - Eclipse IDE
 - POO
