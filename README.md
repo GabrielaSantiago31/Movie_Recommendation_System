@@ -5,7 +5,7 @@ Duke University
 <img src="https://img.shields.io/badge/STATUS-COMPLETED-green"/>
 </p>
 
-### 📖: Course Info 
+### 📖 Course Info 
 ---
 In this capstone, you will show off your problem solving and Java programming skills by creating recommender systems. You will work with data for movies, including ratings, but the principles involved can easily be adapted to books, restaurants, and more. You will write a program to answer questions about the data, including which items should be recommended to a user based on their ratings of several movies. Given input files on users ratings and movie titles, you will be able to:
 
@@ -15,7 +15,7 @@ In this capstone, you will show off your problem solving and Java programming sk
 4. Recommend movies to a given user based on ratings. 
 5. Display recommended movies for a given user on a webpage.
 
-### 👣: Steps
+### 👣 Steps
 ---
 - <kbd>Step 1:</kbd> You will start out the capstone project by taking a look at the features of a recommender engine.
 Then you will choose how to read in and organize user, ratings, and movie data in your program.
