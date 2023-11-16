@@ -2,7 +2,7 @@
 Duke University
 
 <p>
-<img src="https://img.shields.io/badge/STATUS-COMPLETO-green"/>
+<img src="https://img.shields.io/badge/STATUS-COMPLETED-green"/>
 </p>
 
 ### 📖: Course Info 
